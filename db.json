@@ -1,14 +1,25 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "tokens": [
+        {
+            "id": 0,
+            "description": "This is a test",
+            "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+            "animation_url": "https://tylerirl.keybase.pub/Cryptowaves_Airdrop.mp4",
+            "name": "My NFT 0"
+        },
+        {
+            "id": 1,
+            "description": "My NFT",
+            "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+            "image": "https://tylerirl.keybase.pub/moeda.png",
+            "name": "My NFT 1"
+        },
+        {
+            "id": 2,
+            "description": "My NFT",
+            "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+            "image": "https://tylerirl.keybase.pub/moeda.png",
+            "name": "My NFT 2"
+        }
+    ]
 }
