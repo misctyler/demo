@@ -13,7 +13,7 @@
             "description": "CornHub Represent",
             "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
             "image": "https://tylerirl.keybase.pub/moeda-bronze.png",
-            "name": "Bronze Kernel"
+            "name": "Bronze Kernel",
             "attributes": [
                 {
                   "trait_type": "Coin", 
@@ -26,7 +26,7 @@
             "description": "CornHub Represent",
             "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
             "image": "https://tylerirl.keybase.pub/moeda.png",
-            "name": "Silver Kernel"
+            "name": "Silver Kernel",
             "attributes": [
                 {
                   "trait_type": "Coin", 
@@ -39,7 +39,7 @@
             "description": "CornHub Represent",
             "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
             "image": "https://tylerirl.keybase.pub/moeda-gold.png",
-            "name": "Gold Kernel"
+            "name": "Gold Kernel",
             "attributes": [
                 {
                   "trait_type": "Coin", 
@@ -52,7 +52,7 @@
             "description": "CornHub Represent",
             "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
             "image": "https://tylerirl.keybase.pub/moeda-vip.png",
-            "name": "VIP Kernel"
+            "name": "VIP Kernel",
             "attributes": [
                 {
                   "trait_type": "Coin", 
