@@ -10,7 +10,7 @@
         {
             "id": 1,
             "description": "CornHub Represent",
-            "image": "https://tylerirl.keybase.pub/moeda-bronze.png",
+            "image": "https://misctyler.github.io/CornHub/images/moeda-bronze.png",
             "name": "Bronze Kernel",
             "attributes": [
                 {
@@ -22,7 +22,7 @@
         {
             "id": 2,
             "description": "CornHub Represent",
-            "image": "https://tylerirl.keybase.pub/moeda.png",
+            "image": "https://misctyler.github.io/CornHub/images/moeda.png",
             "name": "Silver Kernel",
             "attributes": [
                 {
@@ -34,7 +34,7 @@
         {
             "id": 3,
             "description": "CornHub Represent",
-            "image": "https://tylerirl.keybase.pub/moeda-gold.png",
+            "image": "https://misctyler.github.io/CornHub/images/moeda-silver.png",
             "name": "Gold Kernel",
             "attributes": [
                 {
@@ -46,7 +46,7 @@
         {
             "id": 4,
             "description": "CornHub Represent",
-            "image": "https://tylerirl.keybase.pub/moeda-vip.png",
+            "image": "https://misctyler.github.io/CornHub/images/moeda-vip.png",
             "name": "VIP Kernel",
             "attributes": [
                 {
